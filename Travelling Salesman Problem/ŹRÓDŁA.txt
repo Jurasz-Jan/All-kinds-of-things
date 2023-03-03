@@ -1,0 +1,12 @@
+Źródła podobnych algorytmów:
+m.in. książka w folderze źródła:
+Design of Heuristic Algorithms for Hard Optimization Éric D. Taillard
+
+
+--
+
+
+
+inspiracje: 
+
+https://www.researchgate.net/profile/Emmanuel-Dansu/publication/307601692_SOLUTION_TO_THE_TRAVELLING_SALESPERSON_PROBLEM_USING_SIMULATED_ANNEALING_ALGORITHM/links/57ccad3b08ae59825185dc8a/SOLUTION-TO-THE-TRAVELLING-SALESPERSON-PROBLEM-USING-SIMULATED-ANNEALING-ALGORITHM.pdf
